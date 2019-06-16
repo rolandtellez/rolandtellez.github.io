@@ -1,2 +1,2 @@
-# rolandtellez.github.io
-GitHub page personal bio
+# Bootstrap-Portfolio
+Recreated basic portfolio using Bootstrap.
